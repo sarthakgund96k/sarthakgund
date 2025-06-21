@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @sarthakgund
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🔬 BSc Physics Student | Aspiring Quantum Researcher
+Currently pursuing BSc in Physics at KTHM College, having completed my first year. I’m passionate about exploring the fascinating world of quantum mechanics, quantum physics, and quantum computing. My curiosity drives me to learn continuously and dive deeper into the fundamentals of the universe. I'm especially interested in contributing to research that pushes the boundaries of modern physics.
 
-<!---
-sarthak719/sarthak719 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Always open to learning opportunities, research projects, and collaborations in the field of quantum science.
